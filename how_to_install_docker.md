@@ -1,6 +1,6 @@
 # How to install docker
-## Steps to Install Docker on Windows Server 2019
-### Installation command 'docker'
+## Windows Server 2019
+### Steps to Install Docker
 1. Enable Windows Containers Feature
   Windows Server 2019 includes the ability to run Windows Containers natively, but you must first enable the Windows Containers feature.
   * Open Powershell as Administrator
